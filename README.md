@@ -39,7 +39,7 @@ composer install
 - Set Up Environment
 Copy .env.example to .env and configure your environment settings, including the database connection:
 
-````
+```
 cp .env.example .env
 ```
 
