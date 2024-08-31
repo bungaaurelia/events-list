@@ -208,3 +208,6 @@ php artisan test
 
 ### Contributing
 If you want to contribute to this project, please fork the repository and create a pull request with your changes.
+
+### Contact
+For any inquiries or issues, please contact me at annisabungaaurelia99@gmail.com.
